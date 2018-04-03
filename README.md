@@ -10,5 +10,5 @@ Unterschied erklären zwischen
 - Owned Media
 
 ### Organisation
-- <x> Minuten Präsenation
-- Termin <dd>.<mm>.2018
+- x Minuten Präsenation
+- Termin dd.mm.2018
